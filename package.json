@@ -1,0 +1,19 @@
+{
+  "name": "express_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "guid": "^0.0.12",
+    "md5": "^2.2.1",
+    "mongodb": "^2.2.33"
+  }
+}

@@ -1,0 +1,15 @@
+# 配置文件
+.project
+./vscode
+
+#模块文件
+/node_modules
+
+#中间生成文件
+/dist
+/lib
+
+# Windows生成缩略图
+Thumbs.db
+ehthumbs.db
+Desktop.ini
